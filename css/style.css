@@ -17,16 +17,17 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+  color: rgb(0, 0, 0);
 }
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(0, 225, 255, 0.267);
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Gabreila', serif;
+  color: rgb(0, 204, 255);
 }
 
 h1 {
